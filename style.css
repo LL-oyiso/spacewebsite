@@ -12,7 +12,7 @@ body{
     background-size: cover;
     
     padding:30px;
-   
+    font-family: 'Orbitron', sans-serif;
 }
 #main-logo{
     width:250px;
@@ -20,7 +20,7 @@ body{
 }
 #title{
     margin: 35px 0px;
-    text-shadow: 5px 9px 10px black;
+   
 }
 .underline{
     border-bottom: 3px solid white;
